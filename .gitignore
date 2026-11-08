@@ -1,0 +1,12 @@
+# Compiled C executables
+*.exe
+
+# Local compiler and debugger output
+*.o
+*.out
+*.gch
+
+# Visual Studio Code local state
+.vscode/*.user
+.vscode/.ropeproject
+
